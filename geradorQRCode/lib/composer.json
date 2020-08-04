@@ -1,0 +1,12 @@
+{
+    "name": "lemosdeveloper/qrcode",
+    "description": "Transforma URL em QR Code",
+    "authors": [{
+        "name": "LemosLeonardo",
+        "email": "leonardo_lemos@outlook.com.br"
+    }],
+    "require": {
+        "php": "^7.2",
+        "chillerlan/php-qrcode": "^3.2"
+    }
+}
